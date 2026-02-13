@@ -355,9 +355,6 @@ After the Piscine, this foundation enables:
 
 This portfolio demonstrates the foundation needed for systems programming, embedded development, and professional software engineering.
 
-**GitHub URL:** Add your GitHub profile link
-**Portfolio:** This repository showcases complete bootcamp mastery
-
 *Last Updated: February 2026*
 
 </div>

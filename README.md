@@ -212,14 +212,6 @@ All code follows **42 School's Norm**, a strict coding standard that enforces:
 
 ---
 
-## 📞 Contact & Connecting
-
-- **GitHub:** [Your GitHub Profile]
-- **LinkedIn:** [Your LinkedIn]
-- **Email:** [Your Email]
-
----
-
 <div align="center">
   <sub>Created as part of 42 School's Piscine bootcamp | Last Updated: February 2026</sub>
 </div>
