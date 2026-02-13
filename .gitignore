@@ -1,0 +1,50 @@
+# Executable files
+*.o
+*.a
+*.so
+*.out
+a.out
+
+# Object files
+*.obj
+*.lo
+*.slo
+
+# Compiled C programs
+ft_*
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.cproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Debug files
+*.dSYM/
+*.su
+*.gch
+
+# Build directories
+build/
+dist/
+bin/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swn
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Test outputs
+*.log
