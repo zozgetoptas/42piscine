@@ -3,8 +3,6 @@
 <div align="center">
   <h3>🏊 A comprehensive C programming bootcamp covering fundamental algorithms and data structures</h3>
   
-  ![Progress](https://progress-bar.dev/100/?title=Completion&width=200)
-  
   **Language:** C | **Platform:** 42 School | **Duration:** 4 Weeks
 </div>
 
